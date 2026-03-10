@@ -4,11 +4,10 @@ Data analysis project to identify Return Risk Patterns in Online Retail using Ex
 ## Dashboard
 This dashboards shows return risk patterns across customers and product categories.
 ### Retail Summary Dashboard
-This dashboard provides an overview of sales, returns, and overall profitability.
+This dashboard provides an overview of Sales, Returns, and Overall Profitability.
 ![Retail Overview Dashboard](dashboard/retail_overview_dashboard.png)
 ### Retail Risk Drivers Dashboard
-This dashboard highlights the main factors that contribute to product returns and return risk.
-
+This dashboard highlights the main factors that contribute to Product Returns and Return Risk.
 ![Retail Risk Drivers Dashboard](dashboard/retail_risk_drivers_dashboard.png)
 
 ## Key Insights
