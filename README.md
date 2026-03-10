@@ -10,11 +10,12 @@ This dashboard provides an overview of Sales, Returns, and Overall Profitability
 This dashboard highlights the main factors that contribute to Product Returns and Return Risk.
 ![Retail Risk Drivers Dashboard](dashboard/retail_risk_drivers_dashboard.png)
 
-## Key Insights
-- Certain product categories have higher return rates
-- Some customers frequently return products
-- Returns significantly impact revenue and profitability
-- Identifying high return risk helps reduce financial losses
+## Key Business Insights
+-The total sales in the dataset are **8.81M**, but around **597K is lost because of product returns**, which reduces overall profit.
+-The overall **return rate is 6.78%**, showing that returns have a noticeable impact on the business.
+-**United Kingdom has the highest return loss (528K)** compared to other countries, making it the main region contributing to return losses.
+-At the product level, **Paper Craft products have the highest return loss (~168K)**, which may indicate issues related to product quality or customer expectations.
+-The analysis also shows that **a small number of customers are responsible for many of the returns**, which suggests that monitoring high-return customers could help reduce losses.
 
 ## Project Description
 This project analyzes online retail transaction data to identify return risk patterns and understand their impact on business profitability.
