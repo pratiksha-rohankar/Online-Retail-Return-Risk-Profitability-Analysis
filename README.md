@@ -2,8 +2,14 @@
 Data analysis project to identify Return Risk Patterns in Online Retail using Excel, SQL, and Power BI.
 
 ## Dashboard
-This dashboard shows return risk patterns across customers and product categories.
-![Return Risk Dashboard](dashboard/Retail_Summary Dashboard.png)
+This dashboards shows return risk patterns across customers and product categories.
+### Retail Summary Dashboard
+This dashboard provides an overview of sales, returns, and overall profitability.
+![Retail Overview Dashboard](dashboard/retail_overview_dashboard.png)
+### Retail Risk Drivers Dashboard
+This dashboard highlights the main factors that contribute to product returns and return risk.
+
+![Retail Risk Drivers Dashboard](dashboard/retail_risk_drivers_dashboard.png)
 
 ## Key Insights
 - Certain product categories have higher return rates
