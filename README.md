@@ -3,7 +3,7 @@ Data analysis project to identify Return Risk Patterns in Online Retail using Ex
 
 ## Dashboard
 This dashboard shows return risk patterns across customers and product categories.
-![Return Risk Dashboard](dashboard/return_risk_dashboard.png)
+![Return Risk Dashboard](dashboard//Retail_Summary Dashboard.png),(dashboard//Retail_Summary Dashboard.png)
 
 ## Key Insights
 - Certain product categories have higher return rates
