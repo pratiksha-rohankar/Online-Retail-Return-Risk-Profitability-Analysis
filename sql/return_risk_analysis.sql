@@ -1,4 +1,4 @@
---all records in the online retail dataset
+--All Records in Online Retail Dataset
 SELECT * FROM online_retail;
 
 --Total Revenue
