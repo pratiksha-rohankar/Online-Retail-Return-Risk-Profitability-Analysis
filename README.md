@@ -3,7 +3,7 @@ In this project, I analyzed online retail transaction data to understand product
 The main goal of this analysis was to identify high return risk products, customers, and regions and evaluate how product returns affect revenue and profit.
 I used Excel, SQL, and Power BI to clean the data, perform analysis, and build dashboards.
 
-## ## Business Problem
+## Business Problem
 Online retail companies often face high product return rates, which can significantly reduce revenue and increase operational costs.
 Understanding **why products are returned**, which **customers return the most**, and which **products have the highest return loss** is important for improving profitability.
 This project aims to analyze return patterns and identify key factors that contribute to high return losses.
