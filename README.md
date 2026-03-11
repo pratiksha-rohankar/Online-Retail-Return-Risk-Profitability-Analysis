@@ -55,6 +55,9 @@ This dashboard gives an overall view of Total Sales, Return Loss, Net Revenue, a
 This dashboard focuses on the main factors that cause Product Returns, such as High-Return Products, Customers, and Regions.
 
 ![Retail Risk Drivers Dashboard](dashboard/retail_risk_drivers_dashboard.png)
+### Power BI Dashboard File
+You can download the Power BI dashboard used in this project below:
+[Download Power BI File](reports/Online_Retail_Return_Risk_Profitability_Analysis.pbix)
 
 ## Key KPIs
 - **Total Sales:** 8.81
