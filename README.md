@@ -49,9 +49,11 @@ This data was used to analyze sales performance, product returns, and profitabil
 This dashboards help shows return risk patterns across Customers, Product Categories, and Countries.
 ### Retail Overview Dashboard
 This dashboard gives an overall view of Total Sales, Return Loss, Net Revenue, and Return Rate.
+
 ![Retail Overview Dashboard](dashboard/retail_overview_dashboard.png)
 ### Retail Risk Drivers Dashboard
 This dashboard focuses on the main factors that cause Product Returns, such as High-Return Products, Customers, and Regions.
+
 ![Retail Risk Drivers Dashboard](dashboard/retail_risk_drivers_dashboard.png)
 
 ## Key KPIs
